@@ -25,7 +25,7 @@ const SeatSelection = () => {
       <div className="w-full max-w-xl mb-4">
         <label className="block text-sm mb-1">Name *</label>
         <input
-          className="w-full p-2 text-white mb-3"
+          className="w-full p-2 text-black bg-white mb-3  border-2 "
           value={userName}
           onChange={(e) => setUserName(e.target.value)}
         />
