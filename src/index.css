@@ -3,7 +3,7 @@
 @plugin "flowbite/plugin";
 @source "../node_modules/flowbite";
 body {
-  background-image: url(./bgmovie.jpg);
+  background-image: url(/bgmovie.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
